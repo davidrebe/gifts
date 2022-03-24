@@ -1,0 +1,14 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ebebeb;
+}
+
+.hide {
+  display: none;
+}
+
+.uk-input {
+  margin-bottom: 10px;
+}
